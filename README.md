@@ -1,4 +1,4 @@
-# Hİ My Name is Cevat Can
+# Hi My Name is Cevat Can
 
 🧠 Software Developer<br/>
 🖥️ I create web site<br/>
